@@ -1,4 +1,8 @@
 ### Hi I'm Omar 👋
+I'm a Senior Backend developer enthuastic in Crypto, Security, videogames, 3d animation and music.
+I'm currently learning DEFI, solidity, rust, 3d sculpting with zbrush, 3d animation with maya and houdini, and also some creating some videogames with Unreal 4 and 5, and even with Unity.
+
+[![Willowsenator's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowsenator)](https://github.com/willowsenator/github-readme-stats)
 
 <!--
 **willowsenator/willowsenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
