@@ -3,6 +3,11 @@ I'm a Senior Backend developer enthuastic in Crypto, Security, videogames, 3d an
 I'm currently working on a software company as Senior Java Backend Developer. <br>
 I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animation with Maya and Houdini, and also some creating some videogames with Unreal 4 and 5, and even with Unity. <br>
 [![Willowsenator's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowsenator&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+## 📫 Find me on:
+<p align="center">
+<a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer">![github](https://user-images.githubusercontent.com/53278383/226173664-d9a486db-cf23-4e11-b8c8-7e3d498305fb.svg) </a>
+</p>
 <!--
 **willowsenator/willowsenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
