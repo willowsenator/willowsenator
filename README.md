@@ -6,7 +6,7 @@ I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animat
 
 ## 📫 Find me on:
 <p align="center">
-<a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer">![github](https://user-images.githubusercontent.com/53278383/226173664-d9a486db-cf23-4e11-b8c8-7e3d498305fb.svg) </a>
+<a href="https://www.linkedin.com/in/omar-fernando-moreno-benito-48141a43/" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[ICON SLUG].svg" /></a>
 </p>
 <!--
 **willowsenator/willowsenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
