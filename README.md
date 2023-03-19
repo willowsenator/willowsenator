@@ -22,6 +22,7 @@ I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animat
   <img height"32" width="32" src="icons/Javascript.svg"/>
   <img height"32" width="32" src="icons/rust.svg"/>
   <img height"32" width="32" src="icons/solidity.svg"/>
+  <img height"32" width="32" src="icons/python.svg"/>
 </p>
 <!--
 **willowsenator/willowsenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
