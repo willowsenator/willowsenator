@@ -5,6 +5,8 @@ I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animat
 [![Willowsenator's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowsenator&count_private=true)]
 ) <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willowsenator&count_private=true)]
+
 <!--
 **willowsenator/willowsenator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
