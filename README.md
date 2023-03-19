@@ -16,6 +16,7 @@ I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animat
   <img height"32" width="32" src="icons/github.svg"/>
   <img height"32" width="32" src="icons/cplusplus.svg"/>
   <img height"32" width="32" src="icons/csharp.svg"/>
+  <img height="32" width="32" src="icons/java.png" />
   <img height"32" width="32" src="icons/hibernate.svg"/>
   <img height"32" width="32" src="icons/spring.svg"/>
   <img height"32" width="32" src="icons/Javascript.svg"/>
