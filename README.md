@@ -1,7 +1,7 @@
 ### Hi I'm Omar 👋
 I'm a Senior Backend developer enthuastic in Crypto, Security, videogames, 3d animation and music. <br>
 I'm currently working on a software company as Senior Java Backend Developer. <br>
-I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animation with Maya and Houdini, and also some creating some videogames with Unreal 4 and 5, and even with Unity. <br><br>
+I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animation and modeling with Maya, Blender and Houdini, and also creating some videogames with Unreal 4 and 5, and even with Unity. <br><br>
 [![Willowsenator's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowsenator&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## 📫 Find me on:
