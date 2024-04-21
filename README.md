@@ -2,7 +2,7 @@
 I'm a Senior Backend developer enthuastic in Crypto, Security, videogames, 3d animation and music. <br>
 I'm currently working as a backend developer in Rust at a security company focused on detecting and applying vaccination against ransomware threats on Linux and Windows systems. <br>
 I'm currently learning DEFI, Solidity, Rust, 3d sculpting with Zbrush, 3d animation and modeling with Maya, Blender and Houdini, and also creating some videogames with Unreal 4 and 5, and even with Unity. <br>
-Also investigating how to work linux Kernel and learning about EBPF, even though security in smart contract in Cyfrin Updraft platform.<br><br>
+Also investigating how to work linux Kernel and learning about EBPF, even though security in smart contracts in Cyfrin Updraft platform.<br><br>
 
 [![Willowsenator's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowsenator&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 
