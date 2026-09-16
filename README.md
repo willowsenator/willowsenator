@@ -27,10 +27,3 @@ Currently learning: the Linux kernel and eBPF. <br><br>
   <img height="32" width="32" src="icons/solidity.svg"/>
   <img height="32" width="32" src="icons/python.svg"/>
 </p>
-## 🔭 Currently working on:
-- [gas-price-dynamic-fees-uniswapV4](https://github.com/willowsenator/gas-price-dynamic-fees-uniswapV4) — Uniswap V4 hook charging dynamic fees based on gas price
-- [internal_swap_hooks_uniswap_v4](https://github.com/willowsenator/internal_swap_hooks_uniswap_v4) — Uniswap V4 internal-swap hook experiments
-- [account_abstraction_foundry](https://github.com/willowsenator/account_abstraction_foundry) — ERC-4337 account abstraction built with Foundry
-- [Merkle_Airdrop_foundry](https://github.com/willowsenator/Merkle_Airdrop_foundry) — gas-efficient Merkle-proof airdrop contract with Foundry
-- [foundry_crosschain_ccip_rebase_token](https://github.com/willowsenator/foundry_crosschain_ccip_rebase_token) — cross-chain rebase token using Chainlink CCIP
-- [MessagingManagerWebApp](https://github.com/willowsenator/MessagingManagerWebApp) — JavaScript messaging manager web app
