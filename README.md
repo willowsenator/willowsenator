@@ -1,6 +1,6 @@
 ### Hi, I'm Omar 👋
-I'm a Senior Rust & Java Developer at S2 Grupo (Madrid), building ransomware detection and prevention systems for Linux and Windows. <br>
-Backend stack: Rust, Java/Spring Boot, Python, Docker, Kubernetes. <br>
+I'm a Senior Rust & Java Developer at a security company, building ransomware detection and prevention systems for Linux and Windows. <br>
+Backend stack: Rust, Java/Spring Boot, Python, Docker, Kubernetes, Node.js, React. <br>
 Oracle Certified Java SE 11 Professional · Certified Web3 Specialist. <br>
 Active side interests: blockchain security (Solidity, Foundry, DeFi) and game development (Unreal Engine, Unity) with 3D art in Blender and Houdini. <br>
 Currently learning: the Linux kernel and eBPF. <br><br>
